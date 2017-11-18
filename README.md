@@ -13,7 +13,7 @@ Message sending for various services.
 ## Install
 
 ```
-composer require iuliann/rapture-message
+composer require mrjulio/rapture-message
 ```
 
 ## Quick start
